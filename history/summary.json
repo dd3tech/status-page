@@ -289,22 +289,22 @@
   },
   {
     "name": "API's - Users",
-    "url": "$API_URL/users/health",
+    "url": "$API_URL/management/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-users",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 7,
-    "timeDay": 7,
-    "timeWeek": 7,
-    "timeMonth": 7,
-    "timeYear": 7,
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-08-18": 4
+      "2023-08-18": 14
     }
   },
   {
