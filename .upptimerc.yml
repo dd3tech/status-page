@@ -16,12 +16,20 @@ sites:
 
 
 status-website:
+  favicon: https://cdn.statically.io/gh/dd3tech/status-page/master/assets/favicon.ico
   themeUrl: https://cdn.statically.io/gh/dd3tech/status-page/master/assets/new-dark.css
   cname: status.dd360.mx
   logoUrl: https://onboarding.dd360.mx/assets/darkLogo.eaf6fea3.svg
   name: DD360
-  introTitle: "**DD360** a status page to check services"
+  introTitle: "Below, you can review the list of our monitored systems"
   introMessage: Check all our systems
   navbar:
     - title: Main website
       href: https://dd360.mx/
+    - title: BUI
+      href: https://bui.dd360.mx/
+    - title: Onboarding
+      href: https://onboarding.dd360.mx/
+
+i18n:
+  footer: Copyright © DD360
