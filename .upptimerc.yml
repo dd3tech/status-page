@@ -16,6 +16,7 @@ sites:
 
 
 status-website:
+  theme: dark
   cname: status.dd360.mx
   logoUrl: https://onboarding.dd360.mx/assets/darkLogo.eaf6fea3.svg
   name: DD360
