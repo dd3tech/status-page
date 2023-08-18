@@ -16,11 +16,8 @@ sites:
 
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  theme: ../assets/custom-theme.css
-  baseUrl: /status-page
+  theme: ocean
+  cname: status.dd360.mx
   logoUrl: https://onboarding.dd360.mx/assets/darkLogo.eaf6fea3.svg
   name: DD360
   introTitle: "**DD360** a status page to check services"
