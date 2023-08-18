@@ -16,9 +16,7 @@ sites:
 
 
 status-website:
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/dd3tech/status-page/master/assets/new-dark.css
+  themeUrl: https://cdn.statically.io/gh/dd3tech/status-page/master/assets/new-dark.css
   cname: status.dd360.mx
   logoUrl: https://onboarding.dd360.mx/assets/darkLogo.eaf6fea3.svg
   name: DD360
