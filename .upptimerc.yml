@@ -84,7 +84,7 @@ sites:
       - 200
 
   - name: API's - Users
-    url: $API_URL/users/health
+    url: $API_URL/management/health
     method: GET
     expectedStatusCodes:
       - 200
