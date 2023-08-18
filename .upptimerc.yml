@@ -41,6 +41,59 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: API's - Accounts
+    url: $API_URL/accounts/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Documents
+    url: $API_URL/documents/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Financial model
+    url: $API_URL/financial-model/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Sales expenses
+    url: $API_URL/sales-expenses/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Async
+    url: $API_URL/async/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Developers
+    url: $API_URL/developers/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Integrations
+    url: $API_URL/integrations/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Users
+    url: $API_URL/users/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Seduvi
+    url: $API_URL/seduvi/health
+    method: GET
+    expectedStatusCodes:
+      - 200
 
 
 status-website:
