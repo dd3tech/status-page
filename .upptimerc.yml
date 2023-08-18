@@ -1,18 +1,46 @@
-# Change these first
-owner: dd3tech # Your GitHub organization or username, where this repository lives
-repo: status-page # The name of this repository
+owner: dd3tech
+repo: status-page
 
 sites:
   - name: DD360 Landing page
     url: https://dd360.mx
+
   - name: Buildd3r Landing page
     url: https://dd360.mx
+
   - name: BUI Documentation
     url: https://bui.dd360.mx
+
   - name: DD360 WEB APP (Core)
     url: https://app.dd360.mx
+
   - name: Onboarding WEB APP
     url: https://onboarding.dd360.mx
+
+  - name: API's - Business
+    url: $API_URL/business/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Loans
+    url: $API_URL/loans/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Projects
+    url: $API_URL/projects/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Onboarding
+    url: $API_URL/onboarding/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
 
 
 status-website:
@@ -20,7 +48,7 @@ status-website:
   themeUrl: https://cdn.statically.io/gh/dd3tech/status-page/master/assets/new-dark.css
   cname: status.dd360.mx
   logoUrl: https://onboarding.dd360.mx/assets/darkLogo.eaf6fea3.svg
-  name: DD360
+  name: DD360 Status
   introTitle: "Below, you can review the list of our monitored systems"
   introMessage: Check all our systems
   navbar:
