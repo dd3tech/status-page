@@ -1,7 +1,7 @@
 url: $API_URL/business/health
 status: up
 code: 200
-responseTime: 2221
-lastUpdated: 2023-09-02T23:12:18.662Z
+responseTime: 237
+lastUpdated: 2023-09-03T23:12:53.766Z
 startTime: Fri Aug 18 2023 17:42:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
