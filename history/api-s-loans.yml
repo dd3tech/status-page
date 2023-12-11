@@ -1,7 +1,7 @@
 url: $API_URL/loans/health
 status: up
 code: 200
-responseTime: 1832
-lastUpdated: 2023-12-11T17:02:46.257Z
+responseTime: 1596
+lastUpdated: 2023-12-11T23:04:33.290Z
 startTime: Fri Aug 18 2023 17:43:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
