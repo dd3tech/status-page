@@ -100,10 +100,10 @@
     "url": "$API_URL/business/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2031,
@@ -111,17 +111,19 @@
     "timeWeek": 2029,
     "timeMonth": 2366,
     "timeYear": 2031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 1
+    }
   },
   {
     "name": "API's - Loans",
     "url": "$API_URL/loans/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-loans",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1379,
@@ -129,17 +131,19 @@
     "timeWeek": 1140,
     "timeMonth": 1468,
     "timeYear": 1379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 1
+    }
   },
   {
     "name": "API's - Projects",
     "url": "$API_URL/projects/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-projects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1376,
@@ -147,17 +151,19 @@
     "timeWeek": 1140,
     "timeMonth": 1486,
     "timeYear": 1376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 1
+    }
   },
   {
     "name": "API's - Onboarding",
     "url": "$API_URL/onboarding/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.90%",
     "time": 1413,
@@ -166,6 +172,7 @@
     "timeMonth": 1402,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2023-12-11": 1,
       "2023-11-23": 159
     }
   },
@@ -174,9 +181,9 @@
     "url": "$API_URL/accounts/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,16 +192,18 @@
     "timeWeek": 1065,
     "timeMonth": 1312,
     "timeYear": 1359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Documents",
     "url": "$API_URL/documents/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-documents",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -203,16 +212,18 @@
     "timeWeek": 1108,
     "timeMonth": 1343,
     "timeYear": 1336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Financial model",
     "url": "$API_URL/financial-model/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-financial-model",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -221,16 +232,18 @@
     "timeWeek": 1058,
     "timeMonth": 1259,
     "timeYear": 1310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Sales expenses",
     "url": "$API_URL/sales-expenses/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-sales-expenses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -239,16 +252,18 @@
     "timeWeek": 974,
     "timeMonth": 1296,
     "timeYear": 1313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Async",
     "url": "$API_URL/async/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-async",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -257,16 +272,18 @@
     "timeWeek": 1265,
     "timeMonth": 1355,
     "timeYear": 1313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Developers",
     "url": "$API_URL/developers/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-developers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -275,16 +292,18 @@
     "timeWeek": 1253,
     "timeMonth": 1387,
     "timeYear": 1349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Integrations",
     "url": "$API_URL/integrations/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-integrations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -293,16 +312,18 @@
     "timeWeek": 1429,
     "timeMonth": 1324,
     "timeYear": 1280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
     "name": "API's - Users",
     "url": "$API_URL/management/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-users",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -312,6 +333,7 @@
     "timeMonth": 1432,
     "timeYear": 1337,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-08-18": 14
     }
   },
@@ -320,9 +342,9 @@
     "url": "$API_URL/seduvi/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-seduvi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -331,6 +353,8 @@
     "timeWeek": 1455,
     "timeMonth": 1536,
     "timeYear": 1462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   }
 ]
