@@ -6,7 +6,7 @@ sites:
     url: https://dd360.mx
 
   - name: Buildd3r Landing page
-    url: https://dd360.mx
+    url: https://dd360.mx/platform
 
   - name: BUI Documentation
     url: https://bui.dd360.mx
@@ -14,8 +14,20 @@ sites:
   - name: DD360 WEB APP (Core)
     url: https://app.dd360.mx
 
-  - name: Onboarding WEB APP
+  - name: DD360 WEB APP SIGNUP (Core)
+    url: https://app.dd360.mx/auth/signup
+
+  - name: DD360 WEB APP FORGOT PASSWORD
+    url: https://app.dd360.mx/auth/forgot-password
+
+  - name: Onboarding Web redirection
     url: https://onboarding.dd360.mx
+
+  - name: Simulator WEB APP
+    url: https://dd360.mx/simulator
+  
+  - name: Careers web
+    url: https://dd360.mx/careers
 
   - name: API's - Business
     url: $API_URL/business/health
@@ -65,8 +77,8 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: API's - Async
-    url: $API_URL/async/health
+  - name: API's - Kendd3r
+    url: $API_URL/kendd3r/health
     method: GET
     expectedStatusCodes:
       - 200
@@ -91,6 +103,12 @@ sites:
 
   - name: API's - Seduvi
     url: $API_URL/seduvi/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+
+  - name: API's - Analytics
+    url: $API_URL/analytics/health
     method: GET
     expectedStatusCodes:
       - 200
