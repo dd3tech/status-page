@@ -4,19 +4,19 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "73.83%",
-    "uptimeWeek": "96.26%",
+    "uptimeDay": "73.78%",
+    "uptimeWeek": "96.25%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.91%",
     "time": 128,
-    "timeDay": 158,
-    "timeWeek": 157,
-    "timeMonth": 144,
+    "timeDay": 160,
+    "timeWeek": 158,
+    "timeMonth": 145,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-10-16": 376,
+      "2024-10-16": 377,
       "2023-12-22": 95
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "73.04%",
-    "uptimeWeek": "96.15%",
+    "uptimeDay": "72.99%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.91%",
     "time": 16,
-    "timeDay": 52,
-    "timeWeek": 44,
-    "timeMonth": 31,
+    "timeDay": 49,
+    "timeWeek": 42,
+    "timeMonth": 30,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2024-10-16": 388,
+      "2024-10-16": 389,
       "2023-12-22": 95
     }
   },
@@ -142,10 +142,10 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "73.03%",
-    "uptimeWeek": "96.15%",
+    "uptimeDay": "72.98%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.76%",
     "time": 19,
@@ -154,7 +154,7 @@
     "timeMonth": 7,
     "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-10-16": 388
+      "2024-10-16": 389
     }
   },
   {
@@ -162,10 +162,10 @@
     "url": "https://dd360.mx/careers",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "careers-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "73.03%",
-    "uptimeWeek": "96.15%",
+    "uptimeDay": "72.98%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.76%",
     "time": 10,
@@ -174,7 +174,7 @@
     "timeMonth": 8,
     "timeYear": 10,
     "dailyMinutesDown": {
-      "2024-10-16": 388
+      "2024-10-16": 389
     }
   },
   {
@@ -481,14 +481,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.97%",
+    "uptimeYear": "74.96%",
     "time": 952,
     "timeDay": 32,
     "timeWeek": 54,
     "timeMonth": 49,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-10-16": 842,
+      "2024-10-16": 888,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
