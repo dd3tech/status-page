@@ -1,7 +1,7 @@
 url: $API_URL/seduvi/health
 status: down
 code: 500
-responseTime: 23
-lastUpdated: 2024-11-04T23:04:38.063Z
+responseTime: 76
+lastUpdated: 2024-11-05T23:05:09.274Z
 startTime: 2023-08-18T17:55:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
