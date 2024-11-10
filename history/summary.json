@@ -4,16 +4,16 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "17.67%",
+    "uptimeDay": "18.48%",
     "uptimeWeek": "57.24%",
-    "uptimeMonth": "89.41%",
+    "uptimeMonth": "89.43%",
     "uptimeYear": "99.12%",
     "time": 138,
-    "timeDay": 134,
-    "timeWeek": 159,
-    "timeMonth": 159,
+    "timeDay": 132,
+    "timeWeek": 158,
+    "timeMonth": 158,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2024-11-10": 1070,
@@ -21,7 +21,7 @@
       "2024-11-08": 1070,
       "2024-11-07": 976,
       "2024-11-06": 141,
-      "2024-10-16": 329
+      "2024-10-16": 320
     }
   },
   {
@@ -29,24 +29,24 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "17.65%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "18.46%",
     "uptimeWeek": "57.23%",
-    "uptimeMonth": "89.39%",
+    "uptimeMonth": "89.47%",
     "uptimeYear": "99.12%",
     "time": 101,
-    "timeDay": 282,
-    "timeWeek": 255,
-    "timeMonth": 253,
+    "timeDay": 274,
+    "timeWeek": 253,
+    "timeMonth": 252,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-11-10": 1070,
+      "2024-11-10": 1071,
       "2024-11-09": 1055,
       "2024-11-08": 1070,
       "2024-11-07": 976,
       "2024-11-06": 141,
-      "2024-10-16": 339
+      "2024-10-16": 301
     }
   },
   {
@@ -152,24 +152,24 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "17.66%",
+    "uptimeDay": "18.46%",
     "uptimeWeek": "57.23%",
-    "uptimeMonth": "89.41%",
+    "uptimeMonth": "89.43%",
     "uptimeYear": "97.67%",
     "time": 12,
-    "timeDay": 8,
+    "timeDay": 7,
     "timeWeek": 8,
     "timeMonth": 8,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2024-11-10": 1070,
+      "2024-11-10": 1071,
       "2024-11-09": 1055,
       "2024-11-08": 1070,
       "2024-11-07": 976,
       "2024-11-06": 141,
-      "2024-10-16": 329
+      "2024-10-16": 320
     }
   },
   {
@@ -181,7 +181,7 @@
     "uptime": "81.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.61%",
+    "uptimeMonth": "16.58%",
     "uptimeYear": "81.62%",
     "time": 17,
     "timeDay": 3,
@@ -189,7 +189,7 @@
     "timeMonth": 29,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2024-11-10": 1268,
+      "2024-11-10": 1280,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 55,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2024-11-10": 1268,
+      "2024-11-10": 1281,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
