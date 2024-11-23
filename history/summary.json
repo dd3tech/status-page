@@ -4,11 +4,11 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "30.30%",
-    "uptimeWeek": "52.02%",
-    "uptimeMonth": "88.96%",
+    "uptimeDay": "30.95%",
+    "uptimeWeek": "52.14%",
+    "uptimeMonth": "88.99%",
     "uptimeYear": "99.08%",
     "time": 137,
     "timeDay": 139,
@@ -20,7 +20,7 @@
       "2024-11-22": 1163,
       "2024-11-21": 1094,
       "2024-11-20": 976,
-      "2024-11-19": 852
+      "2024-11-19": 840
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "30.27%",
-    "uptimeWeek": "52.01%",
-    "uptimeMonth": "88.96%",
+    "uptimeDay": "30.92%",
+    "uptimeWeek": "52.12%",
+    "uptimeMonth": "88.98%",
     "uptimeYear": "99.08%",
     "time": 172,
-    "timeDay": 265,
-    "timeWeek": 255,
-    "timeMonth": 258,
+    "timeDay": 260,
+    "timeWeek": 254,
+    "timeMonth": 257,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-11-23": 753,
+      "2024-11-23": 754,
       "2024-11-22": 1164,
       "2024-11-21": 1095,
       "2024-11-20": 978,
-      "2024-11-19": 852
+      "2024-11-19": 840
     }
   },
   {
@@ -150,23 +150,23 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
-    "uptime": "97.77%",
-    "uptimeDay": "30.27%",
-    "uptimeWeek": "52.01%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "97.77%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "30.91%",
+    "uptimeWeek": "52.12%",
+    "uptimeMonth": "88.98%",
+    "uptimeYear": "97.78%",
     "time": 13,
-    "timeDay": 53,
+    "timeDay": 52,
     "timeWeek": 20,
     "timeMonth": 12,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-11-23": 753,
+      "2024-11-23": 754,
       "2024-11-22": 1164,
       "2024-11-21": 1093,
       "2024-11-20": 978,
-      "2024-11-19": 852
+      "2024-11-19": 840
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 40,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2024-11-23": 1128,
+      "2024-11-23": 1138,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
@@ -528,7 +528,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-seduvi",
     "status": "down",
-    "uptime": "72.02%",
+    "uptime": "72.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -539,7 +539,7 @@
     "timeMonth": 65,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2024-11-23": 1128,
+      "2024-11-23": 1138,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
