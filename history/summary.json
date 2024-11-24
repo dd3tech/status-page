@@ -4,14 +4,14 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "32.60%",
-    "uptimeWeek": "55.42%",
-    "uptimeMonth": "89.74%",
+    "uptimeDay": "33.32%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "89.80%",
     "uptimeYear": "99.15%",
     "time": 137,
-    "timeDay": 122,
+    "timeDay": 121,
     "timeWeek": 129,
     "timeMonth": 141,
     "timeYear": 137,
@@ -20,7 +20,7 @@
       "2024-11-23": 990,
       "2024-11-22": 1163,
       "2024-11-21": 1094,
-      "2024-11-20": 585
+      "2024-11-20": 558
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "32.58%",
-    "uptimeWeek": "55.41%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "33.30%",
+    "uptimeWeek": "55.67%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "99.15%",
     "time": 176,
-    "timeDay": 262,
+    "timeDay": 257,
     "timeWeek": 259,
     "timeMonth": 257,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-11-24": 660,
+      "2024-11-24": 661,
       "2024-11-23": 991,
       "2024-11-22": 1164,
       "2024-11-21": 1095,
-      "2024-11-20": 587
+      "2024-11-20": 560
     }
   },
   {
@@ -150,23 +150,23 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "32.59%",
-    "uptimeWeek": "55.41%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "97.94%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "33.30%",
+    "uptimeWeek": "55.67%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "97.96%",
     "time": 13,
     "timeDay": 8,
     "timeWeek": 20,
     "timeMonth": 12,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-11-24": 660,
+      "2024-11-24": 661,
       "2024-11-23": 991,
       "2024-11-22": 1164,
       "2024-11-21": 1093,
-      "2024-11-20": 587
+      "2024-11-20": 560
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 40,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2024-11-24": 1040,
+      "2024-11-24": 1051,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
@@ -540,7 +540,7 @@
     "timeMonth": 65,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-11-24": 1040,
+      "2024-11-24": 1051,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
