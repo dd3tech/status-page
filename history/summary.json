@@ -4,12 +4,12 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "22.07%",
-    "uptimeWeek": "59.76%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "22.79%",
+    "uptimeWeek": "60.28%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "99.24%",
     "time": 136,
     "timeDay": 141,
     "timeWeek": 128,
@@ -20,7 +20,7 @@
       "2024-11-25": 1057,
       "2024-11-24": 964,
       "2024-11-23": 990,
-      "2024-11-22": 142
+      "2024-11-22": 89
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "22.05%",
-    "uptimeWeek": "59.74%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "22.77%",
+    "uptimeWeek": "60.27%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "99.24%",
     "time": 182,
-    "timeDay": 249,
+    "timeDay": 250,
     "timeWeek": 250,
-    "timeMonth": 258,
+    "timeMonth": 257,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-11-26": 903,
+      "2024-11-26": 904,
       "2024-11-25": 1057,
       "2024-11-24": 964,
       "2024-11-23": 991,
-      "2024-11-22": 142
+      "2024-11-22": 89
     }
   },
   {
@@ -150,23 +150,23 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "22.03%",
-    "uptimeWeek": "59.74%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "98.17%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "22.76%",
+    "uptimeWeek": "60.26%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "98.19%",
     "time": 13,
     "timeDay": 27,
     "timeWeek": 22,
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-11-26": 903,
+      "2024-11-26": 904,
       "2024-11-25": 1057,
       "2024-11-24": 964,
       "2024-11-23": 991,
-      "2024-11-22": 142
+      "2024-11-22": 89
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 40,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2024-11-26": 1146,
+      "2024-11-26": 1159,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
@@ -422,7 +422,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-sales-expenses",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -542,7 +542,7 @@
     "timeMonth": 63,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-11-26": 1147,
+      "2024-11-26": 1159,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
       "2024-11-23": 1440,
