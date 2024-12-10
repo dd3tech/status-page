@@ -4,19 +4,20 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "28.36%",
-    "uptimeWeek": "55.33%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "99.14%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "27.95%",
+    "uptimeWeek": "54.89%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "99.13%",
     "time": 134,
-    "timeDay": 122,
-    "timeWeek": 123,
+    "timeDay": 121,
+    "timeWeek": 124,
     "timeMonth": 132,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-12-09": 1003,
+      "2024-12-10": 8,
+      "2024-12-09": 1038,
       "2024-12-08": 1126,
       "2024-12-07": 1099,
       "2024-12-06": 938,
@@ -28,19 +29,20 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "28.34%",
-    "uptimeWeek": "55.31%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "99.14%",
-    "time": 202,
-    "timeDay": 219,
-    "timeWeek": 255,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "27.94%",
+    "uptimeWeek": "54.88%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "99.13%",
+    "time": 203,
+    "timeDay": 232,
+    "timeWeek": 257,
     "timeMonth": 254,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-12-09": 1003,
+      "2024-12-10": 8,
+      "2024-12-09": 1038,
       "2024-12-08": 1126,
       "2024-12-07": 1099,
       "2024-12-06": 939,
@@ -150,19 +152,20 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "28.34%",
-    "uptimeWeek": "55.32%",
-    "uptimeMonth": "89.72%",
-    "uptimeYear": "98.13%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "27.95%",
+    "uptimeWeek": "54.88%",
+    "uptimeMonth": "89.62%",
+    "uptimeYear": "98.11%",
     "time": 13,
     "timeDay": 7,
     "timeWeek": 11,
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2024-12-09": 1003,
+      "2024-12-10": 8,
+      "2024-12-09": 1038,
       "2024-12-08": 1125,
       "2024-12-07": 1100,
       "2024-12-06": 939,
@@ -175,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "careers-web",
     "status": "down",
-    "uptime": "67.41%",
+    "uptime": "67.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.41%",
+    "uptimeYear": "67.40%",
     "time": 15,
     "timeDay": 10,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 15,
     "dailyMinutesDown": {
-      "2024-12-09": 1405,
+      "2024-12-10": 9,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -260,8 +264,7 @@
     "timeMonth": 2626,
     "timeYear": 2337,
     "dailyMinutesDown": {
-      "2024-11-12": 12,
-      "2023-12-11": 997
+      "2024-11-12": 12
     }
   },
   {
@@ -292,8 +295,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1427,
-      "2023-12-11": 997
+      "2024-04-06": 1427
     }
   },
   {
@@ -323,8 +325,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1427,
-      "2023-12-11": 998
+      "2024-04-06": 1427
     }
   },
   {
@@ -343,9 +344,7 @@
     "timeWeek": 1189,
     "timeMonth": 1369,
     "timeYear": 1229,
-    "dailyMinutesDown": {
-      "2023-12-11": 998
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API's - Accounts",
@@ -363,9 +362,7 @@
     "timeWeek": 1421,
     "timeMonth": 1420,
     "timeYear": 1097,
-    "dailyMinutesDown": {
-      "2023-12-11": 998
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API's - Documents",
@@ -394,8 +391,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1427,
-      "2023-12-11": 998
+      "2024-04-06": 1427
     }
   },
   {
@@ -425,8 +421,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1427,
-      "2023-12-11": 998
+      "2024-04-06": 1427
     }
   },
   {
@@ -456,8 +451,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1427,
-      "2023-12-11": 998
+      "2024-04-06": 1427
     }
   },
   {
@@ -494,9 +488,7 @@
     "timeWeek": 1366,
     "timeMonth": 1388,
     "timeYear": 1231,
-    "dailyMinutesDown": {
-      "2023-12-11": 998
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API's - Integrations",
@@ -514,9 +506,7 @@
     "timeWeek": 1162,
     "timeMonth": 1376,
     "timeYear": 1247,
-    "dailyMinutesDown": {
-      "2023-12-11": 998
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API's - Users",
@@ -534,9 +524,7 @@
     "timeWeek": 1428,
     "timeMonth": 1371,
     "timeYear": 1204,
-    "dailyMinutesDown": {
-      "2023-12-11": 998
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API's - Seduvi",
@@ -555,7 +543,8 @@
     "timeMonth": 61,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-12-09": 1405,
+      "2024-12-10": 9,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -700,8 +689,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 143,
-      "2023-12-11": 998
+      "2024-07-17": 143
     }
   },
   {
