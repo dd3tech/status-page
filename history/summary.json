@@ -4,11 +4,11 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "24.43%",
-    "uptimeWeek": "43.45%",
-    "uptimeMonth": "86.99%",
+    "uptimeDay": "25.02%",
+    "uptimeWeek": "43.57%",
+    "uptimeMonth": "87.02%",
     "uptimeYear": "98.92%",
     "time": 135,
     "timeDay": 130,
@@ -16,12 +16,12 @@
     "timeMonth": 137,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-01-12": 872,
+      "2025-01-12": 873,
       "2025-01-11": 1139,
       "2025-01-10": 1112,
       "2025-01-09": 1198,
       "2025-01-08": 1192,
-      "2025-01-07": 186
+      "2025-01-07": 173
     }
   },
   {
@@ -29,11 +29,11 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "24.41%",
-    "uptimeWeek": "43.44%",
-    "uptimeMonth": "86.99%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "43.56%",
+    "uptimeMonth": "87.01%",
     "uptimeYear": "98.92%",
     "time": 216,
     "timeDay": 246,
@@ -41,12 +41,12 @@
     "timeMonth": 239,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-01-12": 872,
+      "2025-01-12": 873,
       "2025-01-11": 1139,
       "2025-01-10": 1112,
       "2025-01-09": 1198,
       "2025-01-08": 1192,
-      "2025-01-07": 186
+      "2025-01-07": 173
     }
   },
   {
@@ -152,11 +152,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "24.42%",
-    "uptimeWeek": "43.44%",
-    "uptimeMonth": "86.99%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "43.56%",
+    "uptimeMonth": "87.01%",
     "uptimeYear": "98.03%",
     "time": 12,
     "timeDay": 8,
@@ -164,12 +164,12 @@
     "timeMonth": 11,
     "timeYear": 12,
     "dailyMinutesDown": {
-      "2025-01-12": 872,
+      "2025-01-12": 873,
       "2025-01-11": 1138,
       "2025-01-10": 1112,
       "2025-01-09": 1198,
       "2025-01-08": 1192,
-      "2025-01-07": 186
+      "2025-01-07": 173
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 128,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2025-01-12": 1146,
+      "2025-01-12": 1158,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -565,7 +565,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-seduvi",
     "status": "down",
-    "uptime": "65.00%",
+    "uptime": "64.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -576,7 +576,7 @@
     "timeMonth": 47,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-01-12": 1146,
+      "2025-01-12": 1158,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
