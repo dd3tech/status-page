@@ -25,9 +25,6 @@ sites:
 
   - name: Simulator WEB APP
     url: https://dd360.mx/simulator
-  
-  - name: Careers web
-    url: https://dd360.mx/careers
 
   - name: API's - Business
     url: $API_URL/business/health
@@ -71,8 +68,8 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: API's - Sales expenses
-    url: $API_URL/sales-expenses/health
+  - name: API's - Sales
+    url: $API_URL/sales/health
     method: GET
     expectedStatusCodes:
       - 200
@@ -97,12 +94,6 @@ sites:
 
   - name: API's - Users
     url: $API_URL/management/health
-    method: GET
-    expectedStatusCodes:
-      - 200
-
-  - name: API's - Seduvi
-    url: $API_URL/seduvi/health
     method: GET
     expectedStatusCodes:
       - 200
