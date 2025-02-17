@@ -4,14 +4,14 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "19.65%",
-    "uptimeWeek": "52.35%",
-    "uptimeMonth": "89.04%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "20.33%",
+    "uptimeWeek": "52.53%",
+    "uptimeMonth": "89.08%",
     "uptimeYear": "99.09%",
     "time": 137,
-    "timeDay": 166,
+    "timeDay": 165,
     "timeWeek": 154,
     "timeMonth": 140,
     "timeYear": 137,
@@ -20,7 +20,7 @@
       "2025-02-16": 1176,
       "2025-02-15": 1090,
       "2025-02-14": 1128,
-      "2025-02-13": 593
+      "2025-02-13": 575
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "19.64%",
-    "uptimeWeek": "52.50%",
-    "uptimeMonth": "89.07%",
+    "uptimeDay": "20.30%",
+    "uptimeWeek": "52.67%",
+    "uptimeMonth": "89.11%",
     "uptimeYear": "99.09%",
     "time": 230,
-    "timeDay": 266,
-    "timeWeek": 264,
+    "timeDay": 260,
+    "timeWeek": 263,
     "timeMonth": 255,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-02-17": 811,
+      "2025-02-17": 812,
       "2025-02-16": 1161,
       "2025-02-15": 1090,
       "2025-02-14": 1129,
-      "2025-02-13": 593
+      "2025-02-13": 575
     }
   },
   {
@@ -150,11 +150,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "19.66%",
-    "uptimeWeek": "52.50%",
-    "uptimeMonth": "89.07%",
+    "uptimeDay": "20.30%",
+    "uptimeWeek": "52.67%",
+    "uptimeMonth": "89.11%",
     "uptimeYear": "98.60%",
     "time": 13,
     "timeDay": 31,
@@ -162,11 +162,11 @@
     "timeMonth": 15,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2025-02-17": 811,
+      "2025-02-17": 812,
       "2025-02-16": 1161,
       "2025-02-15": 1090,
       "2025-02-14": 1129,
-      "2025-02-13": 593
+      "2025-02-13": 575
     }
   },
   {
