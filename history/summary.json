@@ -4,11 +4,11 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "20.82%",
-    "uptimeWeek": "43.71%",
-    "uptimeMonth": "87.05%",
+    "uptimeDay": "20.83%",
+    "uptimeWeek": "43.79%",
+    "uptimeMonth": "87.07%",
     "uptimeYear": "98.92%",
     "time": 137,
     "timeDay": 185,
@@ -21,7 +21,7 @@
       "2025-02-20": 1175,
       "2025-02-19": 1129,
       "2025-02-18": 1189,
-      "2025-02-17": 674
+      "2025-02-17": 665
     }
   },
   {
@@ -29,24 +29,24 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "20.80%",
-    "uptimeWeek": "43.69%",
-    "uptimeMonth": "87.04%",
+    "uptimeDay": "20.79%",
+    "uptimeWeek": "43.77%",
+    "uptimeMonth": "87.06%",
     "uptimeYear": "98.92%",
     "time": 231,
-    "timeDay": 266,
+    "timeDay": 253,
     "timeWeek": 263,
     "timeMonth": 257,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-02-22": 404,
+      "2025-02-22": 405,
       "2025-02-21": 1106,
       "2025-02-20": 1175,
       "2025-02-19": 1129,
       "2025-02-18": 1189,
-      "2025-02-17": 674
+      "2025-02-17": 665
     }
   },
   {
@@ -152,11 +152,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "20.80%",
-    "uptimeWeek": "43.68%",
-    "uptimeMonth": "87.04%",
+    "uptimeDay": "20.76%",
+    "uptimeWeek": "43.77%",
+    "uptimeMonth": "87.06%",
     "uptimeYear": "98.37%",
     "time": 13,
     "timeDay": 55,
@@ -164,12 +164,12 @@
     "timeMonth": 16,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2025-02-22": 404,
+      "2025-02-22": 405,
       "2025-02-21": 1107,
       "2025-02-20": 1175,
       "2025-02-19": 1129,
       "2025-02-18": 1189,
-      "2025-02-17": 674
+      "2025-02-17": 665
     }
   },
   {
