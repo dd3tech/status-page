@@ -4,14 +4,14 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "22.06%",
-    "uptimeWeek": "44.84%",
-    "uptimeMonth": "87.31%",
+    "uptimeDay": "22.04%",
+    "uptimeWeek": "44.92%",
+    "uptimeMonth": "87.33%",
     "uptimeYear": "98.94%",
     "time": 138,
-    "timeDay": 122,
+    "timeDay": 124,
     "timeWeek": 153,
     "timeMonth": 146,
     "timeYear": 138,
@@ -21,7 +21,7 @@
       "2025-02-26": 1131,
       "2025-02-25": 1052,
       "2025-02-24": 1169,
-      "2025-02-23": 788
+      "2025-02-23": 779
     }
   },
   {
@@ -29,11 +29,11 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "22.04%",
-    "uptimeWeek": "44.82%",
-    "uptimeMonth": "87.30%",
+    "uptimeDay": "22.02%",
+    "uptimeWeek": "44.90%",
+    "uptimeMonth": "87.32%",
     "uptimeYear": "98.94%",
     "time": 235,
     "timeDay": 256,
@@ -41,12 +41,12 @@
     "timeMonth": 264,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-02-28": 337,
+      "2025-02-28": 338,
       "2025-02-27": 1087,
       "2025-02-26": 1131,
       "2025-02-25": 1053,
       "2025-02-24": 1169,
-      "2025-02-23": 788
+      "2025-02-23": 779
     }
   },
   {
@@ -152,11 +152,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "22.03%",
-    "uptimeWeek": "44.82%",
-    "uptimeMonth": "87.30%",
+    "uptimeDay": "22.02%",
+    "uptimeWeek": "44.90%",
+    "uptimeMonth": "87.32%",
     "uptimeYear": "98.44%",
     "time": 13,
     "timeDay": 5,
@@ -164,12 +164,12 @@
     "timeMonth": 15,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2025-02-28": 337,
+      "2025-02-28": 338,
       "2025-02-27": 1087,
       "2025-02-26": 1131,
       "2025-02-25": 1054,
       "2025-02-24": 1170,
-      "2025-02-23": 788
+      "2025-02-23": 779
     }
   },
   {
