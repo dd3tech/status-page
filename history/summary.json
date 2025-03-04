@@ -4,11 +4,11 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "24.31%",
-    "uptimeWeek": "40.33%",
-    "uptimeMonth": "86.27%",
+    "uptimeDay": "26.32%",
+    "uptimeWeek": "40.46%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "98.86%",
     "time": 138,
     "timeDay": 180,
@@ -22,7 +22,7 @@
       "2025-03-01": 1097,
       "2025-02-28": 1192,
       "2025-02-27": 1087,
-      "2025-02-26": 277
+      "2025-02-26": 263
     }
   },
   {
@@ -30,25 +30,25 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "24.31%",
-    "uptimeWeek": "40.31%",
-    "uptimeMonth": "86.27%",
+    "uptimeDay": "26.31%",
+    "uptimeWeek": "40.44%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "98.86%",
     "time": 233,
-    "timeDay": 240,
-    "timeWeek": 267,
+    "timeDay": 234,
+    "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-03-04": 36,
+      "2025-03-04": 37,
       "2025-03-03": 1091,
       "2025-03-02": 1235,
       "2025-03-01": 1097,
       "2025-02-28": 1193,
       "2025-02-27": 1087,
-      "2025-02-26": 277
+      "2025-02-26": 263
     }
   },
   {
@@ -154,25 +154,25 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "24.32%",
-    "uptimeWeek": "40.31%",
-    "uptimeMonth": "86.26%",
+    "uptimeDay": "26.30%",
+    "uptimeWeek": "40.43%",
+    "uptimeMonth": "86.29%",
     "uptimeYear": "98.34%",
     "time": 14,
-    "timeDay": 69,
+    "timeDay": 68,
     "timeWeek": 24,
     "timeMonth": 17,
     "timeYear": 14,
     "dailyMinutesDown": {
-      "2025-03-04": 36,
+      "2025-03-04": 37,
       "2025-03-03": 1091,
       "2025-03-02": 1235,
       "2025-03-01": 1097,
       "2025-02-28": 1193,
       "2025-02-27": 1087,
-      "2025-02-26": 277
+      "2025-02-26": 263
     }
   },
   {
