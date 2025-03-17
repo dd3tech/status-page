@@ -6,22 +6,22 @@
     "slug": "dd-360-landing-page",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "19.16%",
-    "uptimeWeek": "43.89%",
+    "uptimeDay": "19.41%",
+    "uptimeWeek": "43.91%",
     "uptimeMonth": "87.09%",
     "uptimeYear": "98.92%",
     "time": 139,
-    "timeDay": 155,
+    "timeDay": 156,
     "timeWeek": 143,
     "timeMonth": 147,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-03-17": 882,
+      "2025-03-17": 895,
       "2025-03-16": 1249,
       "2025-03-15": 1112,
       "2025-03-14": 1105,
       "2025-03-13": 1034,
-      "2025-03-12": 275
+      "2025-03-12": 261
     }
   },
   {
@@ -31,22 +31,22 @@
     "slug": "buildd3r-landing-page",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "19.15%",
-    "uptimeWeek": "43.88%",
+    "uptimeDay": "19.41%",
+    "uptimeWeek": "43.89%",
     "uptimeMonth": "87.09%",
     "uptimeYear": "98.92%",
     "time": 237,
-    "timeDay": 231,
-    "timeWeek": 253,
+    "timeDay": 233,
+    "timeWeek": 254,
     "timeMonth": 267,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-03-17": 882,
+      "2025-03-17": 895,
       "2025-03-16": 1249,
       "2025-03-15": 1112,
       "2025-03-14": 1106,
       "2025-03-13": 1034,
-      "2025-03-12": 274
+      "2025-03-12": 260
     }
   },
   {
@@ -154,8 +154,8 @@
     "slug": "simulator-web-app",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "19.18%",
-    "uptimeWeek": "43.88%",
+    "uptimeDay": "19.44%",
+    "uptimeWeek": "43.89%",
     "uptimeMonth": "87.09%",
     "uptimeYear": "98.52%",
     "time": 14,
@@ -164,12 +164,12 @@
     "timeMonth": 16,
     "timeYear": 14,
     "dailyMinutesDown": {
-      "2025-03-17": 882,
+      "2025-03-17": 895,
       "2025-03-16": 1249,
       "2025-03-15": 1112,
       "2025-03-14": 1106,
       "2025-03-13": 1034,
-      "2025-03-12": 275
+      "2025-03-12": 260
     }
   },
   {
@@ -178,10 +178,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
     "status": "down",
-    "uptime": "98.69%",
+    "uptime": "98.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.68%",
-    "uptimeMonth": "77.38%",
+    "uptimeWeek": "1.39%",
+    "uptimeMonth": "77.31%",
     "uptimeYear": "98.11%",
     "time": 2168,
     "timeDay": 204,
@@ -189,7 +189,7 @@
     "timeMonth": 1697,
     "timeYear": 2094,
     "dailyMinutesDown": {
-      "2025-03-17": 1094,
+      "2025-03-17": 1123,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
