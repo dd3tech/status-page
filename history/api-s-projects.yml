@@ -1,7 +1,7 @@
 url: $API_URL/projects/health
-status: down
-code: 503
-responseTime: 106
-lastUpdated: 2025-04-07T19:28:19.727Z
+status: up
+code: 200
+responseTime: 1209
+lastUpdated: 2025-04-07T19:37:54.524Z
 startTime: 2023-08-18T17:43:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
