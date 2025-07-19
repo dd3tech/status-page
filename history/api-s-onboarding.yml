@@ -1,7 +1,7 @@
 url: $API_URL/onboarding/health
 status: up
 code: 200
-responseTime: 1150
-lastUpdated: 2025-07-18T23:05:37.470Z
+responseTime: 1250
+lastUpdated: 2025-07-19T23:05:42.448Z
 startTime: 2023-08-18T17:43:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
