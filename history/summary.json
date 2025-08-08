@@ -4,23 +4,24 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "35.77%",
-    "uptimeWeek": "58.63%",
-    "uptimeMonth": "90.48%",
+    "uptimeDay": "39.19%",
+    "uptimeWeek": "58.72%",
+    "uptimeMonth": "90.50%",
     "uptimeYear": "99.21%",
     "time": 150,
-    "timeDay": 204,
+    "timeDay": 200,
     "timeWeek": 185,
     "timeMonth": 163,
     "timeYear": 150,
     "dailyMinutesDown": {
+      "2025-08-08": 0,
       "2025-08-07": 916,
       "2025-08-06": 1059,
       "2025-08-05": 913,
       "2025-08-04": 841,
-      "2025-08-03": 436
+      "2025-08-03": 427
     }
   },
   {
@@ -28,23 +29,24 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "35.78%",
-    "uptimeWeek": "58.61%",
-    "uptimeMonth": "90.48%",
+    "uptimeDay": "39.16%",
+    "uptimeWeek": "58.69%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "99.21%",
     "time": 255,
-    "timeDay": 244,
-    "timeWeek": 239,
+    "timeDay": 248,
+    "timeWeek": 238,
     "timeMonth": 254,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2025-08-08": 1,
       "2025-08-07": 916,
       "2025-08-06": 1060,
       "2025-08-05": 913,
       "2025-08-04": 841,
-      "2025-08-03": 437
+      "2025-08-03": 428
     }
   },
   {
@@ -87,9 +89,7 @@
     "timeWeek": 168,
     "timeMonth": 139,
     "timeYear": 137,
-    "dailyMinutesDown": {
-      "2024-08-08": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DD360 WEB APP SIGNUP (Core)",
@@ -107,9 +107,7 @@
     "timeWeek": 84,
     "timeMonth": 103,
     "timeYear": 138,
-    "dailyMinutesDown": {
-      "2024-08-08": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DD360 WEB APP FORGOT PASSWORD",
@@ -127,9 +125,7 @@
     "timeWeek": 81,
     "timeMonth": 97,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2024-08-08": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Onboarding Web redirection",
@@ -154,23 +150,24 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "35.83%",
-    "uptimeWeek": "58.60%",
-    "uptimeMonth": "90.47%",
+    "uptimeDay": "39.15%",
+    "uptimeWeek": "58.67%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "99.21%",
     "time": 16,
-    "timeDay": 29,
+    "timeDay": 23,
     "timeWeek": 35,
     "timeMonth": 20,
     "timeYear": 16,
     "dailyMinutesDown": {
+      "2025-08-08": 2,
       "2025-08-07": 916,
       "2025-08-06": 1060,
       "2025-08-05": 913,
       "2025-08-04": 841,
-      "2025-08-03": 438
+      "2025-08-03": 429
     }
   },
   {
@@ -179,18 +176,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
     "status": "down",
-    "uptime": "79.06%",
+    "uptime": "79.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.87%",
+    "uptimeYear": "58.85%",
     "time": 1540,
     "timeDay": 273,
     "timeWeek": 143,
     "timeMonth": 149,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2025-08-07": 1434,
+      "2025-08-08": 77,
+      "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -435,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-documents",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
