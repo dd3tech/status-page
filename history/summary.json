@@ -4,12 +4,12 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "33.78%",
-    "uptimeWeek": "66.82%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "34.22%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 150,
     "timeDay": 123,
     "timeWeek": 147,
@@ -20,7 +20,7 @@
       "2025-09-02": 1040,
       "2025-09-01": 788,
       "2025-08-31": 880,
-      "2025-08-30": 186
+      "2025-08-30": 177
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "33.79%",
-    "uptimeWeek": "66.81%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "34.12%",
+    "uptimeWeek": "66.89%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
     "time": 259,
-    "timeDay": 285,
+    "timeDay": 272,
     "timeWeek": 269,
     "timeMonth": 272,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-09-03": 449,
+      "2025-09-03": 450,
       "2025-09-02": 1043,
       "2025-09-01": 788,
       "2025-08-31": 882,
-      "2025-08-30": 186
+      "2025-08-30": 177
     }
   },
   {
@@ -158,11 +158,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "33.83%",
-    "uptimeWeek": "66.80%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "34.02%",
+    "uptimeWeek": "66.87%",
+    "uptimeMonth": "92.38%",
     "uptimeYear": "99.36%",
     "time": 16,
     "timeDay": 9,
@@ -170,11 +170,11 @@
     "timeMonth": 19,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-09-03": 450,
+      "2025-09-03": 452,
       "2025-09-02": 1043,
       "2025-09-01": 788,
       "2025-08-31": 882,
-      "2025-08-30": 186
+      "2025-08-30": 177
     }
   },
   {
@@ -183,7 +183,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
     "status": "down",
-    "uptime": "76.26%",
+    "uptime": "76.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -194,7 +194,7 @@
     "timeMonth": 161,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2025-09-03": 706,
+      "2025-09-03": 716,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
