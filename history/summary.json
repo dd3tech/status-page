@@ -4,15 +4,15 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "34.63%",
-    "uptimeWeek": "68.03%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "34.73%",
+    "uptimeWeek": "68.28%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 150,
     "timeDay": 145,
-    "timeWeek": 154,
+    "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -20,7 +20,7 @@
       "2025-09-08": 1015,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 241
+      "2025-09-05": 216
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "34.65%",
-    "uptimeWeek": "68.01%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "34.64%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 260,
-    "timeDay": 288,
-    "timeWeek": 271,
+    "timeDay": 283,
+    "timeWeek": 270,
     "timeMonth": 276,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-09-09": 339,
+      "2025-09-09": 340,
       "2025-09-08": 1018,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 241
+      "2025-09-05": 216
     }
   },
   {
@@ -55,12 +55,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.92%",
     "time": 188,
     "timeDay": 125,
-    "timeWeek": 185,
+    "timeWeek": 189,
     "timeMonth": 162,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -162,11 +162,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "34.68%",
-    "uptimeWeek": "68.00%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "34.54%",
+    "uptimeWeek": "68.23%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 16,
     "timeDay": 10,
@@ -174,11 +174,11 @@
     "timeMonth": 18,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-09-09": 339,
+      "2025-09-09": 341,
       "2025-09-08": 1019,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 241
+      "2025-09-05": 216
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 173,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-09-09": 586,
+      "2025-09-09": 594,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
