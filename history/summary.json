@@ -6,9 +6,9 @@
     "slug": "dd-360-landing-page",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "37.87%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "39.39%",
+    "uptimeWeek": "67.38%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 150,
     "timeDay": 142,
@@ -16,11 +16,11 @@
     "timeMonth": 153,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-09-09": 600,
+      "2025-09-09": 609,
       "2025-09-08": 1015,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 50
+      "2025-09-05": 37
     }
   },
   {
@@ -30,21 +30,21 @@
     "slug": "buildd3r-landing-page",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "37.87%",
-    "uptimeWeek": "67.31%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "39.39%",
+    "uptimeWeek": "67.35%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 258,
-    "timeDay": 302,
-    "timeWeek": 270,
+    "timeDay": 303,
+    "timeWeek": 271,
     "timeMonth": 277,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-09-09": 600,
+      "2025-09-09": 609,
       "2025-09-08": 1018,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 50
+      "2025-09-05": 37
     }
   },
   {
@@ -164,21 +164,21 @@
     "slug": "simulator-web-app",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "37.90%",
-    "uptimeWeek": "67.30%",
+    "uptimeDay": "39.43%",
+    "uptimeWeek": "67.34%",
     "uptimeMonth": "92.48%",
     "uptimeYear": "99.37%",
     "time": 16,
-    "timeDay": 11,
+    "timeDay": 10,
     "timeWeek": 23,
     "timeMonth": 18,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-09-09": 601,
+      "2025-09-09": 610,
       "2025-09-08": 1019,
       "2025-09-07": 880,
       "2025-09-06": 753,
-      "2025-09-05": 50
+      "2025-09-05": 37
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
     "status": "down",
-    "uptime": "75.63%",
+    "uptime": "75.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.91%",
+    "uptimeYear": "49.90%",
     "time": 1383,
     "timeDay": 259,
     "timeWeek": 176,
     "timeMonth": 173,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-09-09": 1020,
+      "2025-09-09": 1064,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
