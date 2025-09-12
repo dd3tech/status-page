@@ -4,14 +4,14 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "37.04%",
-    "uptimeWeek": "71.63%",
-    "uptimeMonth": "93.47%",
+    "uptimeDay": "37.82%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.46%",
     "time": 151,
-    "timeDay": 226,
+    "timeDay": 225,
     "timeWeek": 171,
     "timeMonth": 155,
     "timeYear": 151,
@@ -19,8 +19,7 @@
       "2025-09-12": 299,
       "2025-09-11": 870,
       "2025-09-10": 847,
-      "2025-09-09": 836,
-      "2025-09-08": 10
+      "2025-09-09": 836
     }
   },
   {
@@ -28,23 +27,22 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "37.05%",
-    "uptimeWeek": "71.61%",
-    "uptimeMonth": "93.47%",
+    "uptimeDay": "37.77%",
+    "uptimeWeek": "71.69%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.46%",
     "time": 260,
-    "timeDay": 301,
+    "timeDay": 297,
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-09-12": 299,
+      "2025-09-12": 300,
       "2025-09-11": 871,
       "2025-09-10": 847,
-      "2025-09-09": 836,
-      "2025-09-08": 10
+      "2025-09-09": 836
     }
   },
   {
@@ -162,11 +160,11 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "37.11%",
-    "uptimeWeek": "71.59%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "37.74%",
+    "uptimeWeek": "71.67%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 16,
     "timeDay": 27,
@@ -174,11 +172,10 @@
     "timeMonth": 18,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-09-12": 299,
+      "2025-09-12": 301,
       "2025-09-11": 872,
       "2025-09-10": 848,
-      "2025-09-09": 837,
-      "2025-09-08": 10
+      "2025-09-09": 837
     }
   },
   {
@@ -191,14 +188,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.18%",
+    "uptimeYear": "49.17%",
     "time": 1366,
     "timeDay": 273,
     "timeWeek": 192,
     "timeMonth": 170,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2025-09-12": 539,
+      "2025-09-12": 551,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
