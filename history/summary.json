@@ -4,11 +4,11 @@
     "url": "https://dd360.mx",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "dd-360-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "38.88%",
-    "uptimeWeek": "67.83%",
-    "uptimeMonth": "92.60%",
+    "uptimeDay": "40.35%",
+    "uptimeWeek": "67.92%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "99.38%",
     "time": 151,
     "timeDay": 134,
@@ -20,7 +20,7 @@
       "2025-09-15": 924,
       "2025-09-14": 913,
       "2025-09-13": 907,
-      "2025-09-12": 183
+      "2025-09-12": 174
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://dd360.mx/platform",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "buildd3r-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "38.89%",
-    "uptimeWeek": "67.82%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "40.30%",
+    "uptimeWeek": "67.90%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 260,
-    "timeDay": 278,
-    "timeWeek": 273,
+    "timeDay": 274,
+    "timeWeek": 271,
     "timeMonth": 274,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-09-16": 313,
+      "2025-09-16": 314,
       "2025-09-15": 925,
       "2025-09-14": 913,
       "2025-09-13": 907,
-      "2025-09-12": 183
+      "2025-09-12": 174
     }
   },
   {
@@ -163,23 +163,23 @@
     "url": "https://dd360.mx/simulator",
     "icon": "https://icons.duckduckgo.com/ip3/dd360.mx.ico",
     "slug": "simulator-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "38.93%",
-    "uptimeWeek": "67.80%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "40.28%",
+    "uptimeWeek": "67.87%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 16,
-    "timeDay": 36,
+    "timeDay": 35,
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-09-16": 313,
+      "2025-09-16": 315,
       "2025-09-15": 925,
       "2025-09-14": 913,
       "2025-09-13": 908,
-      "2025-09-12": 183
+      "2025-09-12": 174
     }
   },
   {
@@ -199,7 +199,7 @@
     "timeMonth": 174,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2025-09-16": 525,
+      "2025-09-16": 547,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
