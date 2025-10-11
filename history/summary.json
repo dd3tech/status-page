@@ -6,21 +6,21 @@
     "slug": "dd-360-landing-page",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "39.78%",
-    "uptimeWeek": "67.60%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "39.72%",
+    "uptimeWeek": "67.65%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 150,
-    "timeDay": 139,
+    "timeDay": 141,
     "timeWeek": 145,
     "timeMonth": 147,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-10-11": 467,
+      "2025-10-11": 480,
       "2025-10-10": 882,
       "2025-10-09": 905,
       "2025-10-08": 908,
-      "2025-10-07": 107
+      "2025-10-07": 88
     }
   },
   {
@@ -30,21 +30,21 @@
     "slug": "buildd3r-landing-page",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "39.74%",
-    "uptimeWeek": "67.58%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "39.69%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 260,
-    "timeDay": 267,
+    "timeDay": 268,
     "timeWeek": 266,
     "timeMonth": 265,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-10-11": 467,
+      "2025-10-11": 480,
       "2025-10-10": 883,
       "2025-10-09": 906,
       "2025-10-08": 909,
-      "2025-10-07": 107
+      "2025-10-07": 88
     }
   },
   {
@@ -170,21 +170,21 @@
     "slug": "simulator-web-app",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "39.72%",
-    "uptimeWeek": "67.57%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "39.66%",
+    "uptimeWeek": "67.62%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 16,
-    "timeDay": 8,
+    "timeDay": 9,
     "timeWeek": 9,
     "timeMonth": 15,
     "timeYear": 16,
     "dailyMinutesDown": {
-      "2025-10-11": 467,
+      "2025-10-11": 480,
       "2025-10-10": 883,
       "2025-10-09": 907,
       "2025-10-08": 909,
-      "2025-10-07": 107
+      "2025-10-07": 88
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 168,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2025-10-11": 840,
+      "2025-10-11": 864,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
