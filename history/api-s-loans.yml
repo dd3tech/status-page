@@ -1,7 +1,7 @@
 url: $API_URL/loans/health
-status: down
-code: 500
-responseTime: 24
-lastUpdated: 2025-10-20T07:34:10.289Z
+status: up
+code: 200
+responseTime: 884
+lastUpdated: 2025-10-20T09:25:18.615Z
 startTime: 2023-08-18T17:43:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
