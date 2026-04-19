@@ -198,7 +198,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-business",
     "status": "down",
-    "uptime": "58.45%",
+    "uptime": "58.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -209,7 +209,7 @@
     "timeMonth": 156,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-04-19": 51,
+      "2026-04-19": 1318,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -591,7 +591,7 @@
     "timeDay": 935,
     "timeWeek": 1100,
     "timeMonth": 1033,
-    "timeYear": 992,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2025-10-20": 111
     }
@@ -688,18 +688,19 @@
     "url": "$API_URL/financial-model/health",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-s-financial-model",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 996,
-    "timeDay": 882,
-    "timeWeek": 918,
-    "timeMonth": 989,
-    "timeYear": 994,
+    "time": 993,
+    "timeDay": 459,
+    "timeWeek": 808,
+    "timeMonth": 959,
+    "timeYear": 992,
     "dailyMinutesDown": {
+      "2026-04-19": 2,
       "2025-10-20": 102,
       "2025-06-16": 13
     }
@@ -776,12 +777,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 984,
     "timeDay": 1416,
     "timeWeek": 1128,
     "timeMonth": 1154,
-    "timeYear": 1001,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-10-20": 111,
       "2025-08-17": 19
