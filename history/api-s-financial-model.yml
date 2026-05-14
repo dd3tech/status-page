@@ -1,7 +1,7 @@
 url: $API_URL/financial-model/health
 status: up
 code: 200
-responseTime: 1111
-lastUpdated: 2026-05-13T23:27:44.105Z
+responseTime: 791
+lastUpdated: 2026-05-14T23:22:11.580Z
 startTime: 2023-08-18T17:55:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
