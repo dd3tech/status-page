@@ -1,7 +1,7 @@
 url: $API_URL/business/health
 status: down
 code: 403
-responseTime: 292
-lastUpdated: 2026-05-27T23:30:35.336Z
+responseTime: 228
+lastUpdated: 2026-05-28T23:31:42.047Z
 startTime: 2023-08-18T17:42:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
